@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73b0c7d0-f30a-479e-9b01-bddadbc24754" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YTptBBIw3dvidPAeK9n2cerZTv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSON&#10;Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b0c7d0-f30a-479e-9b01-bddadbc24754" name="Default Changelist" comment="" />
+      <created>1582976651045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582976651045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1018" y="410" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583051329191">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="1018" y="410" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1583051329191" />
+    <state x="1099" y="372" key="FileChooserDialogImpl" timestamp="1582976765241">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="1099" y="372" key="FileChooserDialogImpl/0.23.1920.1177@0.23.1920.1177" timestamp="1582976765241" />
+    <state x="813" y="231" key="SettingsEditor" timestamp="1583053304954">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="813" y="231" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1583053304954" />
+    <state x="813" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1582976776893" />
+    <state x="637" y="402" key="com.intellij.ide.util.TipDialog" timestamp="1583053299758">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="637" y="402" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1583053299758" />
+    <state x="637" y="417" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1583039074568" />
+    <state x="1431" y="524" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583041073185">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="1431" y="524" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1200@0.0.1920.1200" timestamp="1583041073185" />
+    <state x="999" y="206" width="837" height="810" key="find.popup" timestamp="1583016119340">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="999" y="187" width="837" height="825" key="find.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1583006279966" />
+    <state x="999" y="206" width="837" height="810" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1583016119340" />
+    <state x="1066" y="334" width="700" height="530" key="recent.locations.popup" timestamp="1583007073278">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="1066" y="334" width="700" height="530" key="recent.locations.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1583007073278" />
+    <state x="909" y="289" width="670" height="664" key="search.everywhere.popup" timestamp="1583016109605">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="909" y="271" width="670" height="676" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1583005205231" />
+    <state x="909" y="289" width="670" height="664" key="search.everywhere.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1583016109605" />
+  </component>
+</project>
